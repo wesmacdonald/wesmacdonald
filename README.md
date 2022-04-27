@@ -3,7 +3,7 @@
 
 ### Hi there 👋 Welcome to my GitHub profile
 
-I've been involved with Visual Studio Team Foundation Server (TFS) since its Beta release back in mid-2005. I established LIKE 10 INC. in September 2007 to help organizations achieve greater success in their software development efforts and help them leverage the complete Application Lifecycle Management with the Visual Studio Platform. I continue to work with Azure DevOps Server, Azure DevOps Services and GitHub Enterprise and bring DevOps/DevSecOps to all the teams I work with.
+I've been involved with Visual Studio Team Foundation Server (TFS) since its Beta release back in mid-2005. I established LIKE 10 INC. in September 2007 to help organizations achieve greater success in their software development efforts and help them leverage the complete Application Lifecycle Management with the Visual Studio Platform. I continue to work with Azure DevOps Server, Azure DevOps Services and GitHub Enterprise and bring DevOps/DevSecOps to all the teams I work with. I was a recipient of the Microsoft Most Valuable Professional (MVP) Award for eleven (11) years and remain a [Reconnect MVP](https://mvp.microsoft.com/en-us/PublicProfile/4014099?fullName=Wes%20MacDonald). 
 
 - 🔭 I’m currently working on pipelines on Azure DevOps Services
 - 🌱 I’m currently learning everything I can about [GitHub](https://docs.microsoft.com/en-us/learn/github/) so I can prepare for the certification exams
